@@ -20,7 +20,7 @@
 * 
 * Heading: This script is written to load various scenes in the game
 * Author: Joy Ajayi
-* Online Repository: 
+* Online Repository: https://github.com/AjayiJoy/Ultra-Summer-Game
 * File format:Assembly-CSharp (.cs)
  */
 

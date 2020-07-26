@@ -21,7 +21,7 @@
 * Heading: This script is written to the game board which instantiates the the star title
 * and the covering tile at random time interval
 * Author: Joy Ajayi
-* Online Repository: 
+* Online Repository: https://github.com/AjayiJoy/Ultra-Summer-Game
 * File format:Assembly-CSharp (.cs)
  */
 
